@@ -1,0 +1,15 @@
+{
+  "name": "nebula-ai-chatbot",
+  "version": "1.0.0",
+  "description": "Nebula - A modern AI chatbot built strictly with the MERN stack",
+  "scripts": {
+    "start": "node dev.js",
+    "dev": "node dev.js",
+    "install:all": "npm --prefix server install && npm --prefix client install",
+    "server": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev"
+  },
+  "keywords": ["mern", "chatgpt", "gemini", "ai", "chatbot", "react", "express", "mongodb"],
+  "author": "",
+  "license": "ISC"
+}
