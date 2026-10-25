@@ -1,4 +1,4 @@
-# Nebula - AI Chatbot Web App
+# Nebula: AI Chatbot Web App
 
 Nebula is a clean, modern ChatGPT/Claude-style AI chatbot web application built strictly using the **MERN stack** (MongoDB, Express.js, React, Node.js) and powered by the Google Gemini API.
 
